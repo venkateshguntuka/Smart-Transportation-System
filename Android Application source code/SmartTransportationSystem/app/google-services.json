@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349386208635",
+    "firebase_url": "https://smart-transportation-system.firebaseio.com",
+    "project_id": "smart-transportation-system",
+    "storage_bucket": "smart-transportation-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349386208635:android:b8f68ebe6d7504f3",
+        "android_client_info": {
+          "package_name": "com.example.venkatesh.smarttransportationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349386208635-2j7li2uv4a32t11elhsjt6e7l5k1n6vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venkatesh.smarttransportationsystem",
+            "certificate_hash": "c8d3a5e3beacdeff2c628eb0b763e3fe487341e9"
+          }
+        },
+        {
+          "client_id": "349386208635-s45krme0nhdgqpceldih70jk5vhvt3ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNtzXFK5PaOPuk7pHHGUxj79unajWV5Uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349386208635-s45krme0nhdgqpceldih70jk5vhvt3ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
